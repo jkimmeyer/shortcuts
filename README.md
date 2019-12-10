@@ -40,20 +40,24 @@
   
   <tbody>
     <tr>
-      <td><kbd>alt + cmd + I</kbd></td>
-      <td>Open/Close Dev-Tools</td>
+      <td><kbd>alt + cmd + F</kbd></td>
+      <td>Fullscreen</td>
     </tr>
     <tr>
-      <td><kbd>alt + cmd + K</kbd></td>
-      <td>Open/Close Web Console</td>
+      <td><kbd>alt + cmd + →></td>
+      <td>Right Side</td>
     </tr>
     <tr>
-      <td><kbd>alt + cmd + C</kbd></td>
-      <td>Open/Close Inspector</td>
+      <td><kbd>alt + cmd + ←</kbd></td>
+      <td>Left Side</td>
     </tr>
     <tr>
-      <td><kbd>alt + cmd + E</kbd></td>
-      <td>Open/Close Network</td>
+      <td><kbd>alt + cmd + ↑</kbd></td>
+      <td>Top Side</td>
+    </tr>
+    <tr>
+      <td><kbd>alt + cmd + ↓</kbd></td>
+      <td>Bottom Side</td>
     </tr>
   </tbody>
 </table>
