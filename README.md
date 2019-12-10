@@ -61,3 +61,20 @@
     </tr>
   </tbody>
 </table>
+
+## VS-Code
+<table>
+  <thead>
+    <tr>
+      <th>Shortcut</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td><kbd>alt + L + ↑/↓</kbd></td>
+      <td>Move current Line up or down</td>
+    </tr>
+  </tbody>
+</table>
