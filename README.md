@@ -73,8 +73,12 @@
   
   <tbody>
     <tr>
-      <td><kbd>alt + L + ↑/↓</kbd></td>
+      <td><kbd>alt + ↑/↓</kbd></td>
       <td>Move current Line up or down</td>
+    </tr>
+    <tr>
+      <td><kbd>alt + ←/→</kbd></td>
+      <td>Jump to previous or next word</td>
     </tr>
   </tbody>
 </table>
