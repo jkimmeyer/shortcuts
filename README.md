@@ -44,7 +44,7 @@
       <td>Fullscreen</td>
     </tr>
     <tr>
-      <td><kbd>alt + cmd + →></td>
+      <td><kbd>alt + cmd + →</td>
       <td>Right Side</td>
     </tr>
     <tr>
